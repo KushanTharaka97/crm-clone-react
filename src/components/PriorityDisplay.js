@@ -1,7 +1,7 @@
-const  PriorityDisplay = () => {
+const  PriorityDisplay= () => {
     return(
-        <div>PriorityDisplay </div>
+        <div>PriorityDisplay</div>
     )
 }
 
-export default PriorityDisplay ;
+export default PriorityDisplay;

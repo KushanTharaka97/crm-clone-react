@@ -1,7 +1,7 @@
 const  TicketCard = () => {
     return(
-        <div>TicketCard </div>
+        <div >TicketCard </div>
     )
 }
 
-export default TicketCard ;
+export default TicketCard 
