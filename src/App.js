@@ -5,7 +5,7 @@ import TicketPage from "./pages/TicketPage";
 
 const App = () => {
   return (
-    <div className="App">
+    <div className="app">
       <BrowserRouter>
         <Nav/>
         <Routes>

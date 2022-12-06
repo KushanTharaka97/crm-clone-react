@@ -4,4 +4,4 @@ const  PriorityDisplay= () => {
     )
 }
 
-export default PriorityDisplay;
+export default PriorityDisplay
